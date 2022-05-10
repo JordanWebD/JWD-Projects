@@ -1,0 +1,41 @@
+head,body
+{
+  font-family: Arial;
+}
+
+#Contact {
+  font-size: 13px;
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+  font-family: Arial;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+
+table {
+  font-family: Arial;
+  border-collapse: collapse;
+  border: 2px solid rgb(200, 200, 200);
+  letter-spacing: 1px;
+  font-size: .8rem;
+  border-spacing: 20px;
+}
+
+td,th
+{
+  border: 1px solid rgb(190, 190, 190);
+  padding: 7px 5px;
+  text-align: center;
+}
+
+th {
+  background: rgb(220,220,220);
+}
+td:nth-child(2)
+{
+  text-align: left;
+}
