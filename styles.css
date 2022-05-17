@@ -147,7 +147,7 @@ visibility: hidden;
   left: 870px;
   height: 300px;
   bottom: 0px;
-  top: 263px;
+  top: 262px;
 }
 
 /* ################################# MIDDLE CONTAINER #################################*/
@@ -264,4 +264,8 @@ hr {
   border: 0;
   border-top: dotted;
   border-width: 5px;
+}
+
+html, body {
+  zoom: 67%;
 }
